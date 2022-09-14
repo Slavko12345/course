@@ -9,5 +9,6 @@ if __name__=='__main__':
     model.fit(X_train, y_train)
     r2 = model.score(X_train, y_train)
 
+    print("Great!")
     print("r2 score: ", r2)
 
