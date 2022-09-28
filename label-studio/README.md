@@ -17,4 +17,4 @@ export AWS_ACCESS_KEY_ID=minio
 export AWS_SECRET_ACCESS_KEY=minio123
 dvc push
 ```
-9. With UI check that minio bucker contains pushed binary objects.
+9. With UI check that minio bucket ml-data contains pushed binary objects.
